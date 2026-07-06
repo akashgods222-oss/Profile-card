@@ -1,11 +1,6 @@
 # 🚀 Dynamic Profile Card (Dark Mode Edition)
 
-Hi! I am Akash Yadav, a BCA student and aspiring MERN Stack Developer. This is my very first hands-on web development mini-project built from scratch after breaking out of tutorial hell!
-
----
-
-## 🌟 Live Demo
-👉 [Click here to see the live project](YAHAN_APNA_GITHUB_PAGES_KA_LINK_DALO)
+Hi! I am Akash Yadav, a BCA student and aspiring MERN Stack Developer. This is my very first hands-on web development mini-project built from scratch after breaking out of tutorial hell.
 
 ---
 
